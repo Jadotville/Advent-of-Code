@@ -1,5 +1,5 @@
 # Open a file in read mode
-with open('C:\\Users\\olive\\OneDrive\\Informatik\\Advent of Code\\2024\\day 1\\input.txt', 'r') as file:
+with open('input.txt', 'r') as file:
     content = file.read()
 
 # Print the content of the file
